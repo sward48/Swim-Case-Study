@@ -8,6 +8,8 @@ The only other step required is to have the proper folder structure.
 
 The folder structure is as follows:
 
+
+```text
 Swim-Case-Study/
 ├── app.R
 ├── R/ 
@@ -19,3 +21,4 @@ Swim-Case-Study/
 │   ├── Data.rds
 ├── swimming_report.qmd
 └── executive_summary.qmd
+```
