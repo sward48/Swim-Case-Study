@@ -2,9 +2,9 @@
 
 In order to run this app and render the pdf files, you must follow these instructions:
 
-First, in RStudio, set your working directory to "your_path/swim-case-study". Then ensure you have all the required packages by checking libraries.R. Once you have all the packages installed, you should be good to run and render. (If you have all the libraries and are still having trouble rendering the .qmd files, you should be able to render as HTML, then from there save as a PDF).
+First, in RStudio, set your working directory to "your_path/swim-case-study". Then ensure you have all the required packages by checking libraries.R. Once you have all the packages installed, you should be good to run and render/preview. (If you have all the libraries and are still having trouble rendering the .qmd files, you should be able to render as HTML, then from there save as a PDF).
 
-In order to run the app, go to app.R and click the run button in RStudio. 
+In order to run the app, go to app.R and click the run button in RStudio. If running on Positron or other, we highly suggest going to a browser to use the app, as that was the intended way to view it. On RStudio, there is a pop up window that is sufficient.
 
 The only other step required is to have the proper folder structure.
 
