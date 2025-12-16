@@ -10,7 +10,7 @@ The folder structure is as follows:
 
 
 ```text
-Swim-Case-Study/
+swim-case-study/
 ├── app.R
 ├── R/ 
 │   ├── libraries.R
